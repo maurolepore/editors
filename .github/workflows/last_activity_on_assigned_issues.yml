@@ -1,0 +1,26 @@
+name: Update README.md 
+
+on:
+  schedule:
+  # Twice a day, at 0 and 12 
+  - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  last-activity-on-assigned-issues:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Update README.md 
+        run: ./create_readme.sh
+        env:
+          GH_TOKEN: ${{ secrets.GH_CLI }}   
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update README.md
