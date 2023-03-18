@@ -5,7 +5,7 @@ Who can handle a package?
 FREE and BUSY editors, based on the CLOSED or OPEN status of the issue that
 records their last activity.
 
-Updated on Sat Mar 18 03:51:56 PM UTC 2023
+Updated on Sat Mar 18 15:52:54 UTC 2023
 
 ```bash
 # Standard
@@ -23,5 +23,5 @@ BUSY  #566  adamhsparks    1   day     ago
 # Stats
 FREE  #532  tdhock          5   months  ago
 FREE  #551  stephaniehicks  22  days    ago
-FREE  #559  Paula-Moraga    17  hours   ago
+FREE  #559  Paula-Moraga    18  hours   ago
 ```
