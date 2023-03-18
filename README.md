@@ -2,26 +2,34 @@
 
 Who can handle a package?
 
-FREE and BUSY editors, based on the CLOSED or OPEN status of the issue that
-records their last activity.
+Last activity in issues assigned to rOpenSci editors, searched first in open
+issues and then in closed issues. Editors with no open issues are FREE, even if
+they also have no closed issue.
 
-Updated on Sat Mar 18 15:52:54 UTC 2023
+
+Updated on Sat Mar 18 11:28:52 PM UTC 2023
 
 ```bash
 # Standard
-FREE  #367  jooolia        5   months  ago
-FREE  #560  ldecicco-USGS  21  days    ago
-BUSY  #502  annakrystalli  1   month   ago
-BUSY  #572  maurolepore    24  days    ago
-BUSY  #574  noamross       16  days    ago
-BUSY  #577  maelle         15  days    ago
-BUSY  #575  karthik        7   days    ago
-BUSY  #568  jhollist       4   days    ago
-BUSY  #576  emilyriederer  1   day     ago
-BUSY  #566  adamhsparks    1   day     ago
+adamhsparks annakrystalli emilyriederer jhollist jooolia karthik ldecicco
+ldecicco-USGS maelle maurolepore noamross
+
+FREE  CLOSED  #367  jooolia        5   months
+FREE  CLOSED  #560  ldecicco-USGS  21  days
+BUSY  OPEN    #502  annakrystalli  1   month
+BUSY  OPEN    #572  maurolepore    24  days
+BUSY  OPEN    #574  noamross       16  days
+BUSY  OPEN    #577  maelle         15  days
+BUSY  OPEN    #575  karthik        7   days
+BUSY  OPEN    #568  jhollist       4   days
+BUSY  OPEN    #576  emilyriederer  1   day
+BUSY  OPEN    #566  adamhsparks    1   day
+
 
 # Stats
-FREE  #532  tdhock          5   months  ago
-FREE  #551  stephaniehicks  22  days    ago
-FREE  #559  Paula-Moraga    18  hours   ago
+bbolker lcolladotor Paula-Moraga rkillick stephaniehicks tdhock
+
+FREE  CLOSED  #532  tdhock          5   months
+FREE  CLOSED  #551  stephaniehicks  22  days
+FREE  CLOSED  #559  Paula-Moraga    18  hours
 ```
