@@ -5,6 +5,6 @@ echo                                                     >> $file
 echo 'Updated on '$(date)                                >> $file
 echo                                                     >> $file
 echo '```bash'                                           >> $file
-./last_activity_on_assigned_issues.sh | sort | column -t >> $file
+cat out_standard.txt | sort | column -t                  >> $file
 echo '```'                                               >> $file
 

@@ -18,8 +18,8 @@ jobs:
 
       - name: Update README.md
         run: |
-          ./create_readme.sh
           ./last_activity_on_assigned_issues.sh editors > out_standard.txt
+          ./create_readme.sh
         env:
           GH_TOKEN: ${{ secrets.GH_CLI }}
 
