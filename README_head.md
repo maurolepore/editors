@@ -2,6 +2,5 @@
 
 Who can handle a package?
 
-This table shows the last activity on issues assigned to each editor.
-Editors are free when the last activity was on a CLOSED issue, else they
-are already handling at least one submission.
+FREE and BUSY editors, based on the CLOSED or OPEN status of the issue that
+records their last activity.
