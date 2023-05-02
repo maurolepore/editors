@@ -2,9 +2,9 @@ CLOSED  2023-03-30T03:45:50Z  #566  adamhsparks  1 month ago
 OPEN  2023-02-04T18:46:05Z  #502  annakrystalli  2 months ago
 CLOSED  2023-04-11T16:18:55Z  #576  emilyriederer  20 days ago
 OPEN  2023-04-20T21:50:01Z  #568  jhollist  11 days ago
-CLOSED  2022-10-04T15:02:36Z  #367  jooolia  6 months ago
+OPEN  2023-05-02T09:55:41Z  #590  jooolia  2 hours ago
 OPEN  2023-03-30T15:50:51Z  #575  karthik  1 month ago
 CLOSED  2023-02-24T17:39:32Z  #560  ldecicco-USGS  2 months ago
-OPEN  2023-04-26T08:06:41Z  #577  maelle  5 days ago
+OPEN  2023-05-02T10:52:32Z  #522  maelle  1 hour ago
 OPEN  2023-04-30T17:03:34Z  #572  maurolepore  1 day ago
 OPEN  2023-04-25T13:29:28Z  #574  noamross  6 days ago
