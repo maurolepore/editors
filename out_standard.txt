@@ -5,6 +5,6 @@ OPEN  2023-07-27T19:29:05Z  #568  jhollist  8 days ago
 OPEN  2023-06-30T08:53:25Z  #590  jooolia  1 month ago
 OPEN  2023-07-06T13:20:30Z  #575  karthik  29 days ago
 CLOSED  2023-02-24T17:39:32Z  #560  ldecicco-USGS  5 months ago
-OPEN  2023-07-25T08:08:16Z  #577  maelle  10 days ago
+OPEN  2023-07-25T08:08:16Z  #577  maelle  11 days ago
 OPEN  2023-08-03T17:31:28Z  #593  maurolepore  1 day ago
-CLOSED  2023-06-06T09:20:48Z  #452  noamross  1 month ago
+CLOSED  2023-06-06T09:20:48Z  #452  noamross  2 months ago
