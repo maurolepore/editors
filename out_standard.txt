@@ -1,10 +1,10 @@
-OPEN  2023-10-16T04:47:38Z  #595  adamhsparks  1 day ago
+OPEN  2023-10-16T04:47:38Z  #595  adamhsparks  2 days ago
 OPEN  2023-05-11T04:09:34Z  #502  annakrystalli  5 months ago
-OPEN  2023-10-17T09:11:21Z  #600  emilyriederer  15 hours ago
+OPEN  2023-10-17T09:11:21Z  #600  emilyriederer  1 day ago
 OPEN  2023-10-05T20:56:44Z  #609  jhollist  12 days ago
-OPEN  2023-10-11T04:10:19Z  #590  jooolia  6 days ago
+OPEN  2023-10-11T04:10:19Z  #590  jooolia  7 days ago
 OPEN  2023-07-06T13:20:30Z  #575  karthik  3 months ago
-OPEN  2023-10-10T12:07:43Z  #598  ldecicco-USGS  7 days ago
-OPEN  2023-10-10T07:24:49Z  #606  maelle  7 days ago
+OPEN  2023-10-10T12:07:43Z  #598  ldecicco-USGS  8 days ago
+OPEN  2023-10-10T07:24:49Z  #606  maelle  8 days ago
 OPEN  2023-10-16T18:10:47Z  #608  maurolepore  1 day ago
-OPEN  2023-10-16T09:26:48Z  #613  noamross  1 day ago
+OPEN  2023-10-16T09:26:48Z  #613  noamross  2 days ago
