@@ -4,8 +4,8 @@ CLOSED  2023-12-05T12:54:02Z  #600  emilyriederer  8 days ago
 OPEN  2023-11-22T12:48:30Z  #609  jhollist  21 days ago
 OPEN  2023-11-25T22:28:13Z  #590  jooolia  18 days ago
 OPEN  2023-07-06T13:20:30Z  #575  karthik  5 months ago
-OPEN  2023-12-11T07:42:52Z  #598  ldecicco-USGS  2 days ago
+OPEN  2023-12-11T07:42:52Z  #598  ldecicco-USGS  3 days ago
 CLOSED  2023-12-12T21:26:13Z  #577  maelle  1 day ago
-OPEN  2023-12-13T19:30:10Z  #608  maurolepore  5 hours ago
+OPEN  2023-12-14T12:03:27Z  #608  maurolepore  28 minutes ago
 OPEN  2023-12-12T01:02:07Z  #613  noamross  2 days ago
-OPEN  2023-12-05T02:27:42Z  #599  Pakillo  8 days ago
+OPEN  2023-12-05T02:27:42Z  #599  Pakillo  9 days ago
