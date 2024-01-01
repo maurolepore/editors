@@ -1,7 +1,7 @@
-OPEN  2023-12-30T02:00:32Z  #595  adamhsparks  1 day ago
+OPEN  2023-12-30T02:00:32Z  #595  adamhsparks  2 days ago
 OPEN  2023-12-15T12:55:46Z  #502  annakrystalli  16 days ago
 OPEN  2023-12-30T22:52:33Z  #619  emilyriederer  1 day ago
-OPEN  2024-01-01T00:32:38Z  #609  jhollist  47 minutes ago
+OPEN  2024-01-01T00:32:38Z  #609  jhollist  11 hours ago
 OPEN  2023-11-25T22:28:13Z  #590  jooolia  1 month ago
 OPEN  2023-07-06T13:20:30Z  #575  karthik  5 months ago
 OPEN  2023-12-22T14:50:29Z  #598  ldecicco-USGS  9 days ago
