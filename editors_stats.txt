@@ -1,4 +1,7 @@
 # https://devdevguide.netlify.app/softwarereview_intro.html#editors-and-reviewers
+adamhsparks
+emitanaka
+helske
 Paula-Moraga
-stephaniehicks
+rkillick
 tdhock
