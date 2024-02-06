@@ -1,11 +1,11 @@
-CLOSED  2024-01-23T12:27:26Z  #595  adamhsparks  13 days ago
+CLOSED  2024-01-23T12:27:26Z  #595  adamhsparks  14 days ago
 OPEN  2023-12-15T12:55:46Z  #502  annakrystalli  1 month ago
-OPEN  2024-02-05T23:36:55Z  #619  emilyriederer  1 hour ago
+OPEN  2024-02-05T23:36:55Z  #619  emilyriederer  12 hours ago
 OPEN  2024-01-29T18:31:56Z  #609  jhollist  7 days ago
-CLOSED  2024-01-22T11:36:25Z  #500  jooolia  14 days ago
+CLOSED  2024-01-22T11:36:25Z  #500  jooolia  15 days ago
 OPEN  2023-07-06T13:20:30Z  #575  karthik  7 months ago
-OPEN  2024-02-02T03:03:07Z  #598  ldecicco-USGS  3 days ago
+OPEN  2024-02-02T03:03:07Z  #598  ldecicco-USGS  4 days ago
 OPEN  2024-01-31T16:04:55Z  #623  maelle  5 days ago
-OPEN  2024-01-29T01:28:38Z  #608  maurolepore  7 days ago
-CLOSED  2024-01-11T08:57:09Z  #613  noamross  25 days ago
+OPEN  2024-01-29T01:28:38Z  #608  maurolepore  8 days ago
+CLOSED  2024-01-11T08:57:09Z  #613  noamross  26 days ago
 OPEN  2024-02-04T17:30:26Z  #599  Pakillo  1 day ago
