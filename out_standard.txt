@@ -1,8 +1,8 @@
 CLOSED  2024-01-23T12:27:26Z  #595  adamhsparks  25 days ago
-CLOSED  2024-02-12T03:45:01Z  #502  annakrystalli  5 days ago
+CLOSED  2024-02-12T03:45:01Z  #502  annakrystalli  6 days ago
 OPEN  2024-02-15T00:49:35Z  #619  emilyriederer  3 days ago
 OPEN  2024-02-08T22:16:15Z  #609  jhollist  9 days ago
-CLOSED  2024-01-22T11:36:25Z  #500  jooolia  26 days ago
+CLOSED  2024-01-22T11:36:25Z  #500  jooolia  27 days ago
 OPEN  2023-07-06T13:20:30Z  #575  karthik  7 months ago
 OPEN  2024-02-14T13:46:46Z  #625  ldecicco-USGS  3 days ago
 OPEN  2024-02-15T18:04:01Z  #623  maelle  2 days ago
