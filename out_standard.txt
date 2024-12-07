@@ -6,6 +6,6 @@ CLOSED  2024-07-30T07:21:17Z  #648  jooolia  4 months ago
 OPEN  2024-11-11T09:07:36Z  #575  karthik  25 days ago
 OPEN  2024-12-04T02:21:01Z  #675  ldecicco-USGS  2 days ago
 CLOSED  2024-10-26T12:40:44Z  #39  sckott,maelle  1 month ago
-OPEN  2024-11-30T14:34:42Z  #659  maurolepore  5 days ago
+OPEN  2024-11-30T14:34:42Z  #659  maurolepore  6 days ago
 OPEN  2024-11-28T11:35:17Z  #489  noamross  8 days ago
 CLOSED  2024-12-05T01:58:18Z  #599  Pakillo  1 day ago
