@@ -1,7 +1,7 @@
-OPEN  2025-04-15T01:00:49Z  #684  adamhsparks  11 hours ago
+CLOSED  2025-04-15T23:34:32Z  #684  adamhsparks  54 minutes ago
 CLOSED  2024-02-12T03:45:01Z  #502  annakrystalli  1 year ago
-CLOSED  2025-03-24T16:19:25Z  #676  emilyriederer  21 days ago
-OPEN  2025-04-10T20:18:57Z  #685  jhollist  4 days ago
+CLOSED  2025-03-24T16:19:25Z  #676  emilyriederer  22 days ago
+OPEN  2025-04-10T20:18:57Z  #685  jhollist  5 days ago
 CLOSED  2024-07-30T07:21:17Z  #648  jooolia  8 months ago
 CLOSED  2023-02-21T21:39:16Z  #358  karthik  2 years ago
 CLOSED  2025-03-12T23:32:53Z  #675  ldecicco-USGS  1 month ago
