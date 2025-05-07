@@ -7,7 +7,7 @@ issues and then in closed issues. Editors with no open issues are FREE, even if
 they also have no closed issue.
 
 
-Updated on Wed May 7 00:29:43 UTC 2025
+Updated on Wed May 7 12:11:29 UTC 2025
 
 ```bash
 # Standard
@@ -22,9 +22,9 @@ FREE  CLOSED  #599  Pakillo        1   month
 BUSY  OPEN    #637  ldecicco-USGS  2   days
 BUSY  OPEN    #661  adamhsparks    2   days
 BUSY  OPEN    #685  jhollist       2   days
-BUSY  OPEN    #698  maelle         15  hours
-BUSY  OPEN    #556  noamross       14  hours
-BUSY  OPEN    #673  maurolepore    1   hour
+BUSY  OPEN    #698  maelle         1   day
+BUSY  OPEN    #556  noamross       1   day
+BUSY  OPEN    #673  maurolepore    12  hours
 
 
 # Stats
