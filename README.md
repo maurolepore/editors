@@ -7,24 +7,24 @@ issues and then in closed issues. Editors with no open issues are FREE, even if
 they also have no closed issue.
 
 
-Updated on Wed May 7 12:11:29 UTC 2025
+Updated on Thu May 8 00:29:49 UTC 2025
 
 ```bash
 # Standard
 adamhsparks annakrystalli emilyriederer jhollist jooolia karthik ldecicco
 ldecicco-USGS maelle maurolepore noamross Pakillo
 
-FREE  CLOSED  #358  karthik        2   years
-FREE  CLOSED  #502  annakrystalli  1   year
-FREE  CLOSED  #648  jooolia        9   months
-FREE  CLOSED  #676  emilyriederer  1   month
-FREE  CLOSED  #599  Pakillo        1   month
-BUSY  OPEN    #637  ldecicco-USGS  2   days
-BUSY  OPEN    #661  adamhsparks    2   days
-BUSY  OPEN    #685  jhollist       2   days
-BUSY  OPEN    #698  maelle         1   day
-BUSY  OPEN    #556  noamross       1   day
-BUSY  OPEN    #673  maurolepore    12  hours
+FREE  CLOSED  #358  karthik        2  years
+FREE  CLOSED  #502  annakrystalli  1  year
+FREE  CLOSED  #648  jooolia        9  months
+FREE  CLOSED  #676  emilyriederer  1  month
+FREE  CLOSED  #599  Pakillo        1  month
+BUSY  OPEN    #637  ldecicco-USGS  3  days
+BUSY  OPEN    #661  adamhsparks    3  days
+BUSY  OPEN    #685  jhollist       3  days
+BUSY  OPEN    #698  maelle         1  day
+BUSY  OPEN    #556  noamross       1  day
+BUSY  OPEN    #673  maurolepore    1  day
 
 
 # Stats
@@ -33,7 +33,7 @@ adamhsparks emitanaka helske Paula-Moraga rkillick tdhock
 FREE  CLOSED  #475  tdhock        1  year
 FREE  CLOSED  #603  Paula-Moraga  1  year
 FREE  CLOSED  #642  emitanaka     1  month
-BUSY  OPEN    #645  rkillick      2  days
-BUSY  OPEN    #661  adamhsparks   2  days
-BUSY  OPEN    #688  helske        2  days
+BUSY  OPEN    #645  rkillick      3  days
+BUSY  OPEN    #661  adamhsparks   3  days
+BUSY  OPEN    #688  helske        3  days
 ```
