@@ -5,7 +5,7 @@ OPEN  2025-05-04T21:57:55Z  #685  jhollist  14 days ago
 CLOSED  2024-07-30T07:21:17Z  #648  jooolia  9 months ago
 CLOSED  2023-02-21T21:39:16Z  #358  karthik  2 years ago
 OPEN  2025-05-12T22:18:54Z  #637  ldecicco-USGS  6 days ago
-OPEN  2025-05-16T04:55:26Z  #698  maelle  2 days ago
+OPEN  2025-05-19T09:20:05Z  #698  maelle  2 hours ago
 OPEN  2025-05-17T21:07:25Z  #673  maurolepore  1 day ago
-OPEN  2025-05-18T19:36:27Z  #556  noamross  4 hours ago
+OPEN  2025-05-18T19:36:27Z  #556  noamross  16 hours ago
 CLOSED  2025-03-25T09:15:43Z  #599  Pakillo  1 month ago
