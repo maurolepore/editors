@@ -1,11 +1,11 @@
-OPEN  2025-07-08T13:36:56Z  #656  adamhsparks  9 days ago
+OPEN  2025-07-08T13:36:56Z  #656  adamhsparks  10 days ago
 CLOSED  2024-02-12T03:45:01Z  #502  annakrystalli  1 year ago
-OPEN  2025-06-30T12:32:24Z  #705  emilyriederer  17 days ago
+OPEN  2025-06-30T12:32:24Z  #705  emilyriederer  18 days ago
 OPEN  2025-07-08T02:08:51Z  #685  jhollist  10 days ago
 CLOSED  2024-07-30T07:21:17Z  #648  jooolia  11 months ago
 CLOSED  2023-02-21T21:39:16Z  #358  karthik  2 years ago
-OPEN  2025-07-07T14:35:36Z  #706  ldecicco-USGS  10 days ago
+OPEN  2025-07-07T14:35:36Z  #706  ldecicco-USGS  11 days ago
 OPEN  2025-07-15T11:57:25Z  #714  maelle  3 days ago
-OPEN  2025-07-12T05:00:15Z  #673  maurolepore  6 days ago
-OPEN  2025-07-18T11:09:22Z  #615  noamross  1 hour ago
+OPEN  2025-07-18T20:46:57Z  #673  maurolepore  3 hours ago
+OPEN  2025-07-18T11:09:22Z  #615  noamross  13 hours ago
 CLOSED  2025-03-25T09:15:43Z  #599  Pakillo  3 months ago
